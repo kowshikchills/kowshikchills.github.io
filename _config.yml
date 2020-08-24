@@ -1,0 +1,65 @@
+# Site
+name: 'KD Explains'
+description: 'Joint Initiative by Kowshik and Dharani'
+logo: 'assets/images/title_pic.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: '/kowshikchills.github.io'
+disqus: ''
+email: 'kowshikchilamkurthy@gmail.com'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    kowshik:
+      name:           Kowshik Chilamkurthy
+      site:           https://www.linkedin.com/in/kowshik-chilamkurthy-67a501113/
+      avatar:         /assets/images/kowshik_avt.jpg
+      bio:            "RL | ML | ALGO TRADING | TRANSPORTATION | GAME THEORY | HISTORY"
+      email:          kowshikchilamkurthy@gmail.com
+      twitter:        https://twitter.com/kowshik
+
+    dharani:
+      name:           Dharani Jonnalagadda
+      site:            https://www.linkedin.com/in/dharani-jonnalagadda-828737120/
+      avatar:         /assets/images/dharani_avt.jpg
+      bio:            "Data Analyst | Data Science | ML Blogger | RL"
+      email:          dharanichowdary25@gmail.com
+      twitter:        https://twitter.com/dharani
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: kowshik
+      avatar: /assets/images/kowshik_avt.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

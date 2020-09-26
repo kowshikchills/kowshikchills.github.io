@@ -7,9 +7,8 @@ image: https://cdn-images-1.medium.com/max/2660/1*pnTVa_iBypl3WsCWx-j8jA.png
 tags: [RL]
 ---
 
-## Noisy Networks For Exploration
-
-### A Simple, Powerful and Alternate Exploration Approach
+## Noisy Networks For Exploration: 
+#### A Simple, Powerful and Alternate Exploration Approach
 
 **Paper**: [Noisy Networks for Exploration](https://arxiv.org/abs/1706.10295)
 

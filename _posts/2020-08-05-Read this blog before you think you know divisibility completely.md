@@ -9,7 +9,6 @@ tags: [features]
 
 #### Understanding what numbers hide from you
 
-![Photo by [Markus Spiske](https://unsplash.com/@markusspiske?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash]()
 
 The intention to write this blog is not to dwell too much upon the theories. I don’t plan to confuse reader’s minds providing useless proofs to obvious things. My main motivation is to put these amazing concepts the way I’d like to teach my young-self.
 

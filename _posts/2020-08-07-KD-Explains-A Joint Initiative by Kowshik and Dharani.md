@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KD Explains: A Joint Initiative by Kowshik and Dharani"
+title:  "KD Explains: A Joint Initiative"
 image: assets/images/title_pic.jpg
 categories: [mission]
 tags: [mission] 

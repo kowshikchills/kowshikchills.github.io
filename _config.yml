@@ -1,6 +1,6 @@
 # Site
-name: 'KD Explains'
-description: 'Joint Initiative by Kowshik and Dharani'
+name: 'Kowshik Explains'
+description: 'Kowshik Explains '
 logo: 'assets/images/title_pic.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/kowshikchills.github.io'
@@ -26,14 +26,6 @@ authors:
       bio:            "RL | ML | ALGO TRADING | TRANSPORTATION | GAME THEORY | HISTORY"
       email:          kowshikchilamkurthy@gmail.com
       twitter:        https://twitter.com/kowshik
-
-    dharani:
-      name:           Dharani Jonnalagadda
-      site:            https://www.linkedin.com/in/dharani-jonnalagadda-828737120/
-      avatar:         /assets/images/dharani_avt.jpg
-      bio:            "Data Analyst | Data Science | ML Blogger | RL"
-      email:          dharanichowdary25@gmail.com
-      twitter:        https://twitter.com/dharani
  
 # Defaults
 defaults:
